@@ -35,7 +35,7 @@ Symbolic expressions for **GBF sequences** are available in the `DB_GBF_n` files
 
 ## Demo and Testing
 
-To test the algorithm and see examples in action, run the **`demo.m`** file. This file demonstrates how to set up and use the GBF algorithm with predefined parameters. Simply open and run `demo.m` in Matlab to observe how the algorithm works.
+To test the algorithm and see examples in action, run the **`Demo.m`** file. This file Demonstrates how to set up and use the GBF algorithm with predefined parameters. Simply open and run `Demo.m` in Matlab to observe how the algorithm works.
 
 ---
 
@@ -44,6 +44,6 @@ To test the algorithm and see examples in action, run the **`demo.m`** file. Thi
 1. Clone or download this repository.
 2. Open Matlab and navigate to the folder where the files are located.
 3. Run the `Roots_GBF` function with your defined parameters.
-4. To explore predefined examples, run `demo.m`.
+4. To explore predefined examples, run `Demo.m`.
 
 ---
